@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="">
-    <title>.:Ô Tô Bình Lâm:.</title>
+    <title>.:Thái bình Auto:.</title>
 	<link rel="icon" type="image/png" href="<?=selfPath?>logo-ico.png"/>  
     <?=common::basic_css()?>      
     <?=common::basic_js()?>
